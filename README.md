@@ -18,8 +18,5 @@ I develop data science and deep learning models in finance. I build end-to-end d
 
 ## 📬 Contact
 
-🧪 Medium : https://medium.com/@sakallioglummertl
-
-🔗 LinkedIn: https://www.linkedin.com/in/mmertsakallioglu/
-
-🌐 Portfolio: Upss, I'm working on it 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mmertsakallioglu/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mmertsakallioglu)
